@@ -1,0 +1,25 @@
+.wrapper_body{
+    width: 100%;
+    height: 100% !important;
+    display: grid;
+    grid-template-columns: 20% 60% 20%;
+    background-color: #fff;
+    color: #444;
+}
+
+.center{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 1em;
+    background-color: #fff;
+    color: #444;
+    justify-items: center;
+    align-items: center;
+}
+
+.square {
+  width: 20em;
+  height: 20em;
+  background-color: #9C1A1C;
+}
