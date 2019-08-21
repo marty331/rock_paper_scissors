@@ -23,3 +23,9 @@
   height: 20em;
   background-color: #9C1A1C;
 }
+.player_two {
+    background-image: url("images/rock.jpg");
+    background-size: contain;
+    resize: both;
+    overflow: scroll;
+}
